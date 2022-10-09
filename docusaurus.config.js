@@ -9,7 +9,7 @@ const config = {
   title: 'okoge document',
   tagline: 'okoge document',
   url: 'https://okoge.github.io/document/',
-  baseUrl: '/',
+  baseUrl: '/document/',
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
   favicon: 'img/favicon.ico',
