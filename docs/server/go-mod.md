@@ -2,7 +2,7 @@
 sidebar_position: 1
 ---
 
-# Go mod
+# Go
 
 ## The Overview of go development environment
 
