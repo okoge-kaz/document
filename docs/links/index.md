@@ -13,11 +13,13 @@
 
 - [Developer Rules of Machine Learning](https://developers.google.com/machine-learning/guides/rules-of-ml)
 
+### アルゴリズム
+
+- [EMアルゴリズム徹底解説](https://qiita.com/kenmatsu4/items/59ea3e5dfa3d4c161efb)
 
 ## Data Science
 
 - [Python Data Science Handbook](https://jakevdp.github.io/PythonDataScienceHandbook/)
-- [Comprehensive Data Structures and Algorithms](https://unacademy.com/batch-group/Comprehensive%20Data%20Structures%20&%20Algorithms/6UWLWDZ3)
 
 ## 金融
 
@@ -63,3 +65,9 @@
 [Link](https://www.usnews.com/best-colleges/rankings/national-universities)
 
 コンピュターサイエンス、学費とかで志望校を探す
+
+## 競技プログラミング
+
+- [木上のナップザック](https://qiita.com/tmaehara/items/4b2735e56843bad89949)
+- [Comprehensive Data Structures and Algorithms](https://unacademy.com/batch-group/Comprehensive%20Data%20Structures%20&%20Algorithms/6UWLWDZ3)
+
